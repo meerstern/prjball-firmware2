@@ -1,6 +1,8 @@
 # prjball-firmware2
 The Projection Ball firmware for V5.X &amp; IoT Update. Please write the firm with ST-Link V2.  
 
+ <img src="https://github.com/meerstern/prjball-firmware2/blob/master/main-photo.jpg" width="360">
+
 ## 特徴 Feature
   * スマートフォンやPCからWifi経由で遠隔操作可能  You can control through phone or tablet.  
   * アナログ時計、デジタル時計を内蔵  The device has watch functions, digital and analog.  
